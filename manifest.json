@@ -1,0 +1,20 @@
+{
+    "name": "My First PWA",
+    "short_name": "PWA",
+    "description": "Progressive Web App is an application that is designed on top of HTML, JS and CSS with some extra features including a service worker and manifest.json file. These extra features will give you the ability to run a web application offline.",
+    "lang": "en-US",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#E6E6FA",
+    "icons": [{
+            "src": "images/256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "images/512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
